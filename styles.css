@@ -67,7 +67,7 @@ body {
     right: -285px; /* start off behind the scenes */
     -webkit-font-smoothing: antialiased;
     position: fixed;
-    width: 285px;
+    width: 300px;
   }
   
   .nav-screen .active {
@@ -84,7 +84,7 @@ body {
   }
   
   .nav-brand img {
-    width: 50px;
+    width: 100px;
   }
   
   .fa-bars {
